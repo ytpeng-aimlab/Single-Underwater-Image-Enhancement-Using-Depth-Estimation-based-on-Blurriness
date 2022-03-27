@@ -1,1 +1,3 @@
-# Single-Underwater-Image-Enhancement-Using-Depth-Estimation-based-on-Blurriness
+# Single-Underwater-Image-Enhancement-Using-Depth-Estimation-based-on-Blurriness, ICIP, 2015
+
+In this paper, we propose to use image blurriness to estimate the depth map for underwater image enhancement. It is based on the observation that objects farther from the camera are more blurry for underwater images. Adopting image blurriness with the image formation model (IFM), we can estimate the distance between scene points and the camera and thereby recover and enhance underwater images. Experimental results on enhancing such images in different lighting conditions demonstrate the proposed method performs better than other IFM-based enhancement methods.
